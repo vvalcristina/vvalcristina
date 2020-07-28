@@ -24,8 +24,4 @@ I'm a Back-End Developer and Data Engineer (Data Enthusiast) from Brazil.
 
 💫 I love learning new technologies.
 
-----
-
-
-#### <img src="https://user-images.githubusercontent.com/52939036/88600618-101edb80-d045-11ea-82fc-0924cae1a86c.png" width="200"> 
 
