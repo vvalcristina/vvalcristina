@@ -1,6 +1,6 @@
 ### Hello World, I'm Val!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-#### <img src="https://user-images.githubusercontent.com/52939036/88600618-101edb80-d045-11ea-82fc-0924cae1a86c.png" width="300"> 
+#### <img src="https://user-images.githubusercontent.com/52939036/93025500-ea3d9e00-f5d4-11ea-92c4-9f567345c107.jpeg" width="300"> 
 
 <a target="_blank" href="https://www.linkedin.com/in/valeria-cristina/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
