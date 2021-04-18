@@ -33,14 +33,3 @@ I'm a Data Engineer (Data Enthusiast) from Brazil.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvalcristina&hide=issues&show_icons=true&themes=darcula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvalcristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a target="_blank" href="https://www.linkedin.com/in/valeria-cristina/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a target="_blank" href="https://www.instagram.com/vvalcristina/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a target="_blank" href="mailto:silvvavaleria@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</br>
